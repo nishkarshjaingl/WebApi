@@ -1,0 +1,78 @@
+﻿@model IEnumerable<ConsumeApi.Models.UserDetails>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Index</h1>
+
+<p>
+    <a asp-action="CreateWithWebAPI">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.FName)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.LName)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.UserName)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Dob)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Gender)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.SqAns)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.SecurityQuestion)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.UserType)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.FName)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.LName)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.UserName)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Dob)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Gender)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.SqAns)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.SecurityQuestion.Question)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.UserType.UserTypeName)
+                </td>
+                <td>
+                    <a asp-action="APIEdit" asp-route-id="@item.UserId">Edit</a> |
+                    <a asp-action="APIDetails" asp-route-id="@item.UserId">Details</a> |
+                    <a asp-action="APIDelete" asp-route-id="@item.UserId">Delete</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

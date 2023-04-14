@@ -1,0 +1,145 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = ConsumeApi
+build_property.RootNamespace = ConsumeApi
+build_property.ProjectDir = C:\Users\nishkarsh.jain\source\repos\WebApi\ConsumeApi\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\nishkarsh.jain\source\repos\WebApi\ConsumeApi
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/nishkarsh.jain/source/repos/WebApi/ConsumeApi/Views/ApiUserDetails/APIDelete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXBpVXNlckRldGFpbHNcQVBJRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/nishkarsh.jain/source/repos/WebApi/ConsumeApi/Views/ApiUserDetails/APIDetails.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXBpVXNlckRldGFpbHNcQVBJRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/nishkarsh.jain/source/repos/WebApi/ConsumeApi/Views/ApiUserDetails/APIEdit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXBpVXNlckRldGFpbHNcQVBJRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/nishkarsh.jain/source/repos/WebApi/ConsumeApi/Views/ApiUserDetails/APIIndex.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXBpVXNlckRldGFpbHNcQVBJSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/nishkarsh.jain/source/repos/WebApi/ConsumeApi/Views/ApiUserDetails/CreateWithWebAPI.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXBpVXNlckRldGFpbHNcQ3JlYXRlV2l0aFdlYkFQSS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/nishkarsh.jain/source/repos/WebApi/ConsumeApi/Views/Categories/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcmllc1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/nishkarsh.jain/source/repos/WebApi/ConsumeApi/Views/Categories/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcmllc1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/nishkarsh.jain/source/repos/WebApi/ConsumeApi/Views/Categories/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcmllc1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/nishkarsh.jain/source/repos/WebApi/ConsumeApi/Views/Categories/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcmllc1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/nishkarsh.jain/source/repos/WebApi/ConsumeApi/Views/Categories/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcmllc1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/nishkarsh.jain/source/repos/WebApi/ConsumeApi/Views/Products/APIIndex.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdHNcQVBJSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/nishkarsh.jain/source/repos/WebApi/ConsumeApi/Views/Products/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdHNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/nishkarsh.jain/source/repos/WebApi/ConsumeApi/Views/Products/CreateWithWebAPI.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdHNcQ3JlYXRlV2l0aFdlYkFQSS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/nishkarsh.jain/source/repos/WebApi/ConsumeApi/Views/Products/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdHNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/nishkarsh.jain/source/repos/WebApi/ConsumeApi/Views/Products/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdHNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/nishkarsh.jain/source/repos/WebApi/ConsumeApi/Views/Products/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdHNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/nishkarsh.jain/source/repos/WebApi/ConsumeApi/Views/Products/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdHNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/nishkarsh.jain/source/repos/WebApi/ConsumeApi/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/nishkarsh.jain/source/repos/WebApi/ConsumeApi/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/nishkarsh.jain/source/repos/WebApi/ConsumeApi/Views/UserDetails/APIDelete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlckRldGFpbHNcQVBJRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/nishkarsh.jain/source/repos/WebApi/ConsumeApi/Views/UserDetails/APIDetails.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlckRldGFpbHNcQVBJRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/nishkarsh.jain/source/repos/WebApi/ConsumeApi/Views/UserDetails/APIEdit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlckRldGFpbHNcQVBJRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/nishkarsh.jain/source/repos/WebApi/ConsumeApi/Views/UserDetails/APIIndex.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlckRldGFpbHNcQVBJSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/nishkarsh.jain/source/repos/WebApi/ConsumeApi/Views/UserDetails/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlckRldGFpbHNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/nishkarsh.jain/source/repos/WebApi/ConsumeApi/Views/UserDetails/CreateWithWebAPI.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlckRldGFpbHNcQ3JlYXRlV2l0aFdlYkFQSS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/nishkarsh.jain/source/repos/WebApi/ConsumeApi/Views/UserDetails/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlckRldGFpbHNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/nishkarsh.jain/source/repos/WebApi/ConsumeApi/Views/UserDetails/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlckRldGFpbHNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/nishkarsh.jain/source/repos/WebApi/ConsumeApi/Views/UserDetails/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlckRldGFpbHNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/nishkarsh.jain/source/repos/WebApi/ConsumeApi/Views/UserDetails/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlckRldGFpbHNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/nishkarsh.jain/source/repos/WebApi/ConsumeApi/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/nishkarsh.jain/source/repos/WebApi/ConsumeApi/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/nishkarsh.jain/source/repos/WebApi/ConsumeApi/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-nhhuz3zr3g
